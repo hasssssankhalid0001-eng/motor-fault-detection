@@ -16,7 +16,7 @@ A **Streamlit-based GUI** allows users to interact with the model easily and vie
 2. **Signal Processing**  
    - Signals were analyzed in the **time domain** and **frequency domain** using **Fourier Transform**.  
    - Feature extraction was performed to capture key characteristics of the motor signals.
-
+   -MATLAB WAS USED TO GENRATE THE MATHEMATICAL FORM OF SIGNAL AND TO DO THE ANALYSIS
 3. **Feature Extraction**  
    The following features were used to train the ANN model:  
    - **RMS (Root Mean Square)**: Measures signal power.  
@@ -36,3 +36,4 @@ A **Streamlit-based GUI** allows users to interact with the model easily and vie
    - Users can input motor data and get immediate predictions of motor health.
 
 LINK-- https://motor-fault-detection-sifrh47ct8w3q9f4iz5frj.streamlit.app
+
